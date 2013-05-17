@@ -1,0 +1,9 @@
+{
+  "name": "sax",
+  "description": "SAX JS - An evented streaming XML parser in JavaScript",
+  "homepage": "https://github.com/isaacs/sax-js",
+  "author": "Petr Praus (http://praus.net)",
+  "version": "0.5.2",
+  "git": "https://github.com/praus/meteor-sax-js.git",
+  "packages": {}
+}
