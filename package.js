@@ -8,6 +8,5 @@ Package.on_use(function (api) {
         'lib/sax.js'
     ], 'server'
     );
-
 });
-Npm.depends({sax:"0.5.2"});
+Npm.depends({sax:"0.5.4"});
